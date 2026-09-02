@@ -1,2 +1,2 @@
-# Projeto-E---Commerce-DIO
+# Projeto-E-Commerce-DIO
 Trabalho do curso database specialist da DIO
